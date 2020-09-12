@@ -1,0 +1,23 @@
+{
+  "name": "find-word-ayham-da",
+  "version": "1.0.0",
+  "description": "Schreib ein Programm, das große Dateien nach einem Wort durchsuchen kann. Als Parameter soll das Programm ein Wort und einen Dateipfad annehmen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbw9dus/find-word-ayham-da.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbw9dus/find-word-ayham-da/issues"
+  },
+  "homepage": "https://github.com/fbw9dus/find-word-ayham-da#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
